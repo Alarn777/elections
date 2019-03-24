@@ -57,8 +57,6 @@ buck-out/
 .buckconfig
 .gitattributes
 .flowconfig
-/ios
-/android
 /__tests__
 package-lock.json
 yarn.lock
